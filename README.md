@@ -28,13 +28,18 @@ The project will contain separate modules for sequence validation, analysis, vis
 
 ## Current Status
 
-Initial setup completed. Core analysis functions are under development.
+The analyzer computes nucleotide frequency and displays a visualisation
 
 ## Scientific Scope
 
 This project is intended for educational and computational biology practice. It does not provide medical or diagnostic interpretations.
 
+## Results
+
+### Nucleotide Frequency
+![Nucleotide Frequency](result/nucleotide_frequency.png)
+
 ## Author
-GitHub : patilkunalkp00-crypto
+GitHub : patilkunalkp008-crypto
 
 
