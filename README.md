@@ -37,6 +37,4 @@ This project is intended for educational and computational biology practice. It 
 ## Author
 GitHub : patilkunalkp00-crypto
 
-## Author
 
-GitHub: patilkunalkp008-crypto
